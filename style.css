@@ -1,0 +1,35 @@
+.wrapper{
+	width:800px;
+	background:#DCDCDC;
+	margin: 0 auto 0 auto;
+	
+}
+.heading{
+	height:100px;
+	background:purple;
+	padding: 10px;
+	text-align: center;
+}
+
+.game{
+	min-height:400px;
+	background:green;
+	width:590px;
+    
+	float:left;
+    
+	
+	
+}
+
+.downloads{
+	background:red;
+	height:400px;
+	width:190px;
+	float:right;
+	
+}
+.footer{
+	clear:both;
+	height:50px;
+}
